@@ -1,7 +1,3 @@
-google.com, pub-7220729979945120, RESELLER, f08c47fec0942fa0
-facebook.com, 2251750971675882, RESELLER, c3e20eee3f780d68
-unity.com, 2846034, DIRECT, 96cabb5fbdde37a7
-applovin.com, 327a035e5ad029848da1633a95966b9b, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
@@ -90,6 +86,9 @@ pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1007063, RESELLER, d641df8625486a7b
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
+google.com, pub-7220729979945120, RESELLER, f08c47fec0942fa0
+facebook.com, 2251750971675882, RESELLER, c3e20eee3f780d68
+applovin.com, 327a035e5ad029848da1633a95966b9b, RESELLER
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
@@ -109,11 +108,12 @@ spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
-telaria.com, rwd19-2846034, RESELLER, 1a4e959a1b50034a
+telaria.com, rwd19-2874761, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
-tremorhub.com, rwd19-2846034, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-2874761, RESELLER, 1a4e959a1b50034a
+unity.com, 2874761, DIRECT, 96cabb5fbdde37a7
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
